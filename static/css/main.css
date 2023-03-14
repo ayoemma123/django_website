@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(70, 57, 134, 0.72);
+    color: black;
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
